@@ -1,6 +1,6 @@
 package org.exmaple;
 
-import org.exmaple.repository.TodoRepsitory;
+import org.exmaple.repository.TodoRepository;
 
 public class TodoServerApplication {
     public static void main(String[] args) {
